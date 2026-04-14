@@ -18,9 +18,9 @@ def hello(name):
 
     Examples
     --------
-    >>> greetings("Sophia")
+    >>> hello("Sophia")
     "Hello 👋 Sophia!"
-    >>> greetings("Eliott Brun")
+    >>> hello("Eliott Brun")
     "Hello 👋 Eliott Brun!"
 
     """
