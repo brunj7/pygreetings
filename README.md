@@ -23,8 +23,8 @@ TODO: Add a brief example of how to use the package to this section
 To use pygreetings in your code:
 
 ```python
->>> import pygreetings
->>> pygreetings.hello_world()
+>>> from pygreetings import greetings
+>>> greetings.hello("Leah")
 ```
 
 ## Copyright
