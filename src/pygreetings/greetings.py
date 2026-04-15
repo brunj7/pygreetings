@@ -2,7 +2,7 @@
 A module that says hi to a friend in different ways.
 """
 
-def greetings(name):
+def hello(name):
     """
     Say hi to the name provided
 
@@ -18,9 +18,9 @@ def greetings(name):
 
     Examples
     --------
-    >>> greetings("Sophia")
+    >>> hello("Sophia")
     "Hello 👋 Sophia!"
-    >>> greetings("Eliott Brun")
+    >>> hello("Eliott Brun")
     "Hello 👋 Eliott Brun!"
 
     """
