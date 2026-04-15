@@ -24,5 +24,12 @@ def hello(name):
     "Hello 👋 Eliott Brun!"
 
     """
+    import random
+    # List of emojis 
+    emoji_list = ["👋", "😀", "🎉", "🔥", "🚀", "✨", "💫", "🤩"]
+    
+    # Randomly select the emoji to use
+    random_emoji = random.choice(emoji_list)
 
-    return "Hello 👋 " + name + "!"
+    # Construct the final text
+    return "Hello "+ random_emoji + " " + name + "!"

@@ -31,9 +31,9 @@ classifiers = [
     "Programming Language :: Python :: 3 :: Only",
 ]
 # TODO: add keywords
-keywords = []
+keywords = ["hello","emoji"]
 # TODO: add dependencies
-dependencies = []
+dependencies = ["emoji>=2.15"]
 
 [project.urls]
 Homepage = "https://github.com/brunj7/pygreetings"
