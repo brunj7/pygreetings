@@ -17,7 +17,7 @@ version = "0.1.0"
 
 description = "A package to say hi!"
 authors = [
-    { name = "brunj7", email = "brun.julien@alumi.duke.edu" },
+    { name = "brunj7", email = "julien.brun@alumi.duke.edu" },
 ]
 license = "MIT"
 requires-python = ">= 3.11" # Adjust based on the minimum version of Python that you support
@@ -33,7 +33,7 @@ classifiers = [
 # TODO: add keywords
 keywords = ["hello","emoji"]
 # TODO: add dependencies
-dependencies = ["emoji>=2.15"]
+dependencies = []
 
 [project.urls]
 Homepage = "https://github.com/brunj7/pygreetings"
